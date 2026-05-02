@@ -27,13 +27,15 @@ O projeto foi estruturado para permitir a escalabilidade e futura integração c
 ## 💻 Simulação Interativa
 
 Você pode testar a lógica do sistema sem necessidade de hardware físico:
-👉 **[COLE AQUI O LINK DO SEU PROJETO NO WOKWI]**
+
+👉 [Simulação no Wokwi](https://wokwi.com/projects/462638599631774721)
 
 > **Nota Técnica**: Na simulação via Wokwi, foi utilizado o modelo **DHT22** devido à disponibilidade nativa no simulador. O código foi devidamente adaptado para manter a compatibilidade com o **DHT11** utilizado na montagem física.
 
 ## 📸 Demonstração do Projeto
 
-![Protótipo Real](link)
+![Protótipo Real](https://media.licdn.com/dms/image/v2/D4E22AQF5eJK-8YBp_A/feedshare-shrink_800/B4EZ3qTVFGJQAg-/0/1777752429193?e=1779321600&v=beta&t=25wbFet4rTfUJJIKQYeav5ewdAo79bvvvmQhv07tfUk)
 
 ---
 **Desenvolvido por Pablo Pereira** 🚀
+[Linkedin](www.linkedin.com/in/pablopereira70)
